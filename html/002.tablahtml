@@ -1,0 +1,28 @@
+</html>
+<!--tabla-->
+
+<table border="lpx solid black">
+    <th>numero</th>
+    <th>concepto</th>
+    <th>importe</th>
+    <tr>
+        <td>1</td>
+        <td>coche</td>
+        <td>1000</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>moto</td>
+        <td>500</td>
+      </tr>
+    </table>
+
+ </html>
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+<!--comienzo-->
+</html>
+
+<!--texto-->
+    <p>hola amigos</p>
+    <p>hola que tal</p>
+    </p>ei ei </p>
+
+<!--lista desordenada-->
+<ul>
+<li>hola</li>
+<li>que</li>
+<li>tal</li>
+<!--lista desordenada dentro de otra-->
+    <ul>
+        <li>lista</li>
+        <li>otra lista</li>
+    </ul>
+<ul>
+
+<!--crear enlaces de pag web con comentario-->
+<a href="http://elpais.com/">ir al pais</a>
+
+
+<!--tabla-->
+<table border="lpx solid black">
+    <th>nombre</th>
+    <th>apellido</th>
+    <tr>
+        <td>pepito</td>
+        <td>gomez</td>
+    </tr>
+    <tr>
+        <td>fulano</td>
+        <td>garcia</td>
+      </tr>
+    </table>
+
+<!--final-->
+ </html>
+
+
+
+
+
+
+
+
